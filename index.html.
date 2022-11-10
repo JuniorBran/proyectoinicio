@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Derivado de "Proyecto: libro de recetas"</title>
+        <meta charset="utf-8">
+        <style>
+        
+            
+        body {background:rgb(191, 216, 235)
+            }
+        
+            
+          h1 {color:blue;}
+          
+          
+          
+          h2 {color:rgb(255, 255, 255);}
+          
+          strong {color:white;}
+       
+       
+       table {color:blue;
+           
+           
+           
+       }
+        </style>
+          
+            
+    </head>
+    <body>
+       
+        <h1 id="inicio-recetas">Libro de recetas dormu</h1>
+        
+        <h2>contenidos:</h2>
+        
+        <ol>
+            <li><a href="#Receta-1">Fiambre</a></li>
+            
+            <li> <a href="#receta-ceviche">ceviche</a> </li>
+            
+            <li> <a href="#receta-chuchitos">chuchitos</a> </li>
+            
+        </ol>
+        
+        <h2 id="Receta-1">Fiambre</h2>
+        
+        <ul>
+            <li>Tiempo: alrededor de 20min</li>
+            <li>ingredientes: <ol> <li> 
+                
+                Vegetales
+1 remolacha</li>
+<li>125 ml (1/2 taza) de vinagre</li>
+<li>3 zanahorias</li>
+<li>1 cucharadita de aceite de oliva</li>
+<li>4 onzas de coliflor</li>
+<li>2 onzas de ejote</li>
+<li>¼ de cucharadita de mostaza</li>
+<li>1 pacaya</li>
+<li>4 onzas de Repollo</li>
+<li>10 cebollitas cambray</li>
+<li>¼ cucharadita de Pimienta Negra</li>
+<li>1 cucharada de azúcar</li>
+<li>1 cucharadita de Laurel en polvo </li>  
+
+ 
+
+<li>Carnes</li>
+2 onzas butifarra<br>
+2 onzas lengua salitrada<br>
+2 onzas jamón<br>
+2 onzas pollo cocido<br>
+2 onzas de mortadela<br>
+2 onzas de salchichas<br>
+2 onzas de salami<br>
+2 onzas de chorizo colorado<br>
+2 onzas de longanizas<br>
+2 onzas de carne para hilachas<br>
+Sazonador <br>
+            </ol> </li>
+        </ul>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fiambre.JPG/220px-Fiambre.JPG" width="300">
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>tiempo por cantidad</th>
+                    <th>precio </th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>2klgr= 60mins</td>
+                <td>20$</td>
+                
+                
+            </tr>
+            
+            <tr>
+                <td>1.5kg=40mins</td>
+                <td> 10$</td>
+                </tr>
+                <tr>
+                    <td>1kg=30mins</td>
+                    <td>10$</td>
+                    
+                    
+                    
+                </tr>
+            
+            </tbody>
+        </table>
+        
+        <p><strong>preparacion:</strong> PREPARACIÓN BASE DE VERDURAS
+Lave las remolachas, póngalas a cocer. Ya cocidas, pélelas y pártalas en cuadros. Separe unas ruedas para el adorno.
+Las demás verduras cocínelas aparte con 1 cda. de Sal de Ajo y Sal de Cebolla . Las zanahorias partidas en cuadros, la coliflor en ramos pequeños, el ejote cortado en juliana, las pacayas cocínelas cambiándoles 3 veces agua con sal.
+Ralle el repollo fino, agregue las cebollas cambray, la mitad del vinagre, (diluido con agua), 2 onzas de aceite, 2 ctda. de mostaza, 1 cda.de Consomé de Gallina Criolla  1/4 taza de azúcar, el laurel, el tomillo. Deje hervir 10 min. Esto agréguelo a las verduras cocidas ya todas juntas y las alcaparras.
+Hervir el resto del vinagre con 2 1/2 tazas de agua,  2 onz. de aceite, 1 ½ cda. de Sal de Cebolla , 1/2 cda.de Sal de Ajo , 1/2 taza de azúcar, 1 ctda. de pimienta, laurel, 1 tomillo y 1 ctda.de salsa inglesa. Deje hervir este caldillo por 5 mins.  pruébelo, no debe quedar acido ni dulce.
+Al día siguiente se componen los platos agregándole al curtido un
+poco de todas las carnes partidas en trocitos. Además, agregue los jugos de los espárragos, chiles pimientos, arvejas (si son de lata). Agregue además unos chiles pimientos picados y unas aceitunas.
+PREPARACIÓN CARNES
+Cocine el pollo con Sal de Ajo, Sal de Cebolla, Pimienta y Sazonador , deshuéselo y córtelo en trozos regulares. Parta la salchicha. Cocine los chorizos, longanizas y butifarra separada y pártalos en ruedas. El jamón en cuadros grandes, la mortadela, salami y salchichón pártalos por mitad o en tiras gruesas. La carne para hilachas póngala a cocer por 30 minutos con una cebolla mediana, Tomillo  De La Huerta, Laurel  De La Huerta, Sal de ajo y Sazonador  y deshiláchela.   
+</p>
+        
+    <p><strong>fuente: <a href="https://www.cocinamalher.com/recetas/fiambre?gclid=Cj0KCQiAmaibBhCAARIsAKUlaKQEEEG7Vxo3e_NcKaOpLfhkb_HBMvj82ASc2BIj7E3rsj84kc1xtNAaAkmmEALw_wcB">ingredientes y preparacion</a></strong></p>
+   
+   
+   
+   
+   
+  <h2 id="receta-ceviche">ceviche</h2>
+  
+  <ul>
+      <li><strong>ingredientes</strong></li> <br>
+      ½ kilogramo de Camarones<br>
+ 5 unidades de Tomate <br>
+ 2 unidades de Cebolla<br>
+ 1 manojo de Cilantro<br>
+ 3 ramas de Hierbabuena<br>
+ 1 unidad de Apio<br>
+ 5 unidades de Zumo de limón<br>
+ 0,12 litro de Salsa inglesa<br>
+ 1 pizca de Sal<br>
+ 
+ <li><strong>Preparacion</strong></li>
+ 
+ 
+<strong> 1</strong>
+
+Lo primero que debes hacer para poder realizar este ceviche guatemalteco es retirar las cabezas de los camarones, pelarlos y hervirlos con agua durante dos minutos. Luego, pásalos a un recipiente hondo y cúbrelos con el jugo del limón y la salsa inglesa. Deberás dejarlos macerar durante toda la noche.<br><strong>2</strong><br>
+
+
+Al día siguiente, pica todas las hierbas, la cebolla, el apio y los tomates y agregalo todo al recipiente donde tienes los camarones. Aunque no forme parte de la receta tradicional guatemalteca, puedes incorporar aguacate si eres un amante de este fruto.<br>
+<strong>3</strong><br>
+Por último, añade sal al gusto y, si lo deseas, un poco de picante como salsa tabasco. Deja que repose el ceviche de camarones en el frigorífico durante media hora como mínimo y sírvelo acompañado de tostones de plátano o galletitas saladas.
+  
+     
+  </ul>
+  
+ 
+ <table>
+            <thead>
+                <tr>
+                    <th>tiempo por cantidad</th>
+                    <th>precio </th>
+                </tr>
+            </thead>>
+     
+     <tbody>
+
+          <tr>      <td>2klgr= 60mins</td>
+                
+                <td>20$</td>
+                
+                
+            </tr>
+
+<tr>
+    
+
+     
+     <td>1kg=30mins</td>
+     
+     
+     <td> 10$</td>
+     
+</tr>
+      
+
+     
+     </tbody>
+
+ </table>
+ 
+ 
+   
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cebiche_de_salm%C3%B3n_con_cebolla_morada%2C_camarones%2C_cilantro%2C_lim%C3%B3n_y_especias.JPG/250px-Cebiche_de_salm%C3%B3n_con_cebolla_morada%2C_camarones%2C_cilantro%2C_lim%C3%B3n_y_especias.JPG" width="400"> <br>
+    
+   
+       
+   <strong>
+       Fuente:
+   </strong>
+   <a href="https://www.recetasgratis.net/receta-de-ceviche-guatemalteco-de-camaron-18145.html">
+   Preparacion e ingredientes</a>
+
+
+
+
+ 
+ <h2 id="receta-chuchitos">Chuchitos</h2>
+ 
+ 
+ <ul>
+     
+     
+     
+     
+     <li><strong> ingredientes:</strong></li>
+     
+     
+     2 manojos de hojas de mazorcas de maíz secas.
+<li>1/4 de kilo de manteca vegetal derretida.</li>
+<li>1/4 de taza de aceite vegetal.</li>
+<li>1 kilo de harina de maíz.</li> 
+<li>1 cucharadita de consomé de pollo.</li>
+<li>2 cucharaditas de sal.</li>
+
+
+
+  <strong>Recado</strong>
+<li>1 chile guaque.</li >
+<li>1/8 de cucharadita de pimienta.</li >
+<li>1/4 cucharadita de comino en polvo.1 cucharadita de sal.</li >
+<li>1 kilo de carne de cerdo en trozos.</li >
+<li>12 tomates</li >
+<br>
+
+<strong>Preparacion</strong>
+
+<li>Preparación
+Mezclar el harina con la manteca, sal y el consomépara que se ablanden.<br>
+Lavar bien las hojas de mazorca y dejarlas en remojo 
+Agregar un poco de agua tibia para suavizarla, no debe quedar muy aguada.<br>
+Para hacer el recado, picar los tomates.<br>
+Lavar y quitar las semillas del chile.<br>
+Agregar una cucharadita del aceite vegetal en un sartén y freír el chile con el comino.<br>
+Luego, moler el tomate y chile junto. Puede hacerse en una trituradora.<br>
+Sazonar con la sal y pimienta.<br>
+Cuando ya esté frío, agregar la carne.<br>
+Colocar en las hojas de mazorca un poco de masa.<br>
+En el centro agregar una cucharada de recado y trozos de la carne.<br>
+Envolver las hojas y atar en un extremo una tira de hoja o hilo de cocinar.<br>
+Cocinar al vapor los chuchitos por aproximadamente una hora y media a fuego lento.<br>
+¡Están listos para servir y compartir con la familia!<br>  </li>
+
+    
+    
+</ul>
+
+<table>
+            <thead>
+                <tr>
+                    <th>tiempo por cantidad</th>
+                    <th>precio </th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>2klgr= 60mins</td>
+                <td>20$</td>
+                
+                
+            </tr>
+            
+            <tr>
+                <td>1.5kg=40mins</td>
+                <td> 10$</td>
+                </tr>
+                <tr>
+                    <td>1kg=30mins</td>
+                    <td>10$</td>
+                    
+                    
+                    
+                </tr>
+            
+            </tbody>
+        </table>
+
+ 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chuchito_con_atol.jpg/220px-Chuchito_con_atol.jpg" width="350" >
+
+<br>
+
+
+
+<strong>
+    Fuentes:
+</strong>
+
+<a href="https://aprende.guatemala.com/cultura-guatemalteca/cocina/receta-para-hacer-chuchitos-guatemaltecos/"> ingredientes y preparacion
+    
+<br>
+</a>
+  <a href="#inicio-recetas" >
+<br>
+      <strong>
+        volver al inicio  
+      </strong>
+  
+      
+      
+  </a> 
+      
+   
+  
+   
+    </body>
+
+</html>
